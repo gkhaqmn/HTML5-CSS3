@@ -23,7 +23,7 @@ margin-left: 0px;
 
 }
 nav > a:hover{
-    color: rgb(211, 224, 28);
+    color: gray;
     text-decoration:underline;
 }
 .menu > ul > li{
@@ -56,7 +56,7 @@ nav > a:hover{
     list-style: none;
     border-radius: 3px;
     width: 200px;
-    background-color: #585a76;
+    background-color: #6A89A4;
     z-index: 1;
     box-shadow: 0 0 1px gray;
 }
@@ -78,7 +78,7 @@ nav > a:hover{
     text-decoration:double;
 }
 .menu ul ul a:hover{
-    background-color: rgb(75, 64, 64);
+    background-color: gray;
     color: white;
 }
 .banner{
@@ -89,8 +89,8 @@ nav > a:hover{
 }
 
 .banner img{
-  width: 970px;
-  padding: 30px;
+  width: 950px;
+  padding: 45px;
 }
 
 h1{
@@ -124,7 +124,7 @@ form.example input[type=text] {
     border: 1px solid grey;
     clear: both;
     width: 150px;
-    background: #f1f1f1;
+    background: #fff;
     border-radius: 200px;
 
 
@@ -139,12 +139,10 @@ form.example input[type=text] {
     background: #64717c;
     color: white;
     font-size: 13px;
-    height: 30%;
-    border: 1px solid #64717c;
-    border-radius: 200px;
+    height: 40%;
+    border-radius: 150px;
     border-left: none;
     margin-left: 5px;
-    box-shadow: #c0c9ca 3px 3px;
     cursor: pointer;
 
 
@@ -198,7 +196,7 @@ form.example input[type=text] {
 footer{
     width: 1000px;
     height: 50px;
-    background-color: #7c9695 ;
+    background-color: #6A89A4 ;
     line-height: 55px;
     text-align: center;
    position: relative;
